@@ -1,0 +1,30 @@
+.comparison-section{
+  margin-top:80px;
+  overflow-x:auto;
+}
+
+.comparison-section h2{
+  text-align:center;
+  margin-bottom:30px;
+}
+
+.comparison-table{
+  width:100%;
+  min-width:600px;
+  border-collapse:collapse;
+  background:white;
+  border-radius:15px;
+  overflow:hidden;
+}
+
+.comparison-table th{
+  background:#2563eb;
+  color:white;
+  padding:15px;
+}
+
+.comparison-table td{
+  padding:15px;
+  border:1px solid #e5e7eb;
+  text-align:center;
+}
