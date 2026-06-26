@@ -17,12 +17,16 @@ import Privacy from "./pages/Privacy/Privacy";
 import AffiliateDisclosure from "./pages/AffiliateDisclosure/AffiliateDisclosure";
 import ProductDetails from "./pages/ProductDetails/ProductDetails";
 import NotFound from "./pages/NotFound/NotFound";
+import PageTracker from "./components/PageTracker";
 
 
 function App() {
   return (
     <HelmetProvider>
       <BrowserRouter>
+
+
+        <PageTracker />
 
         <Navbar />
 
