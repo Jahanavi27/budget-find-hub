@@ -13,7 +13,7 @@ const deskLamps = [
 
     image: "/images/desklamps/fulminare-plastic-led-desk-lamp.jpg",
 
-    affiliateLink: "https://www.amazon.in/dp/B0D29CLX4Z",
+    affiliateLink: "https://amzn.to/4a1EJ30",
 
     description: "The Fulminare Plastic LED Desk Lamp is a compact and eye-friendly study lamp designed for students, professionals, and readers. It features three color lighting modes, touch controls, adjustable brightness, and a built-in USB charging port, making it an excellent choice for studying, reading, and working late into the night.",
 
@@ -69,13 +69,13 @@ const deskLamps = [
 
     slug: "weird-wolf-rechargeable-led-study-table-lamp",
 
-    price: "₹499",
+    price: "₹599",
 
     rating: "4.3",
 
     image: "/images/desklamps/weird-wolf-rechargeable-led-study-table-lamp.jpg",
 
-    affiliateLink: "https://www.amazon.in/dp/B0FR9KHQZM",
+    affiliateLink: "https://amzn.to/4ov12DX",
 
     description: "The WEIRD WOLF Rechargeable LED Study Table Lamp is a versatile desk lamp designed for students, professionals, and readers. It features three color lighting modes, three brightness levels, a flexible gooseneck, dual lithium batteries, and a built-in pen holder, making it ideal for studying, reading, and office work.",
 
@@ -137,7 +137,7 @@ const deskLamps = [
 
     image: "/images/desklamps/saleon-1200mah-rechargeable-led-desk-lamp.jpg",
 
-    affiliateLink: "https://www.amazon.in/dp/B0GT2R51WG",
+    affiliateLink: "https://amzn.to/4oPehPW",
 
     description: "The SaleOn 1200mAh Rechargeable LED Desk Lamp is a compact and portable study lamp designed for students, readers, and professionals. It features a built-in rechargeable battery, USB Type-C charging, three lighting modes, touch controls, and a flexible gooseneck with a mobile holder, making it perfect for studying, reading, and bedside use.",
 

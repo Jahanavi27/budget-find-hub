@@ -15,7 +15,7 @@ const coolingPads = [
 
     image: "/images/coolingpads/claw-air-pro-c39.jpg",
 
-    affiliateLink: "https://amzn.to/4dFu7Ji",
+    affiliateLink: "https://amzn.to/4dTXqqj",
 
     description: "The Claw Air Pro C39 is a budget-friendly laptop cooling pad built for students, office professionals, and casual gamers. Featuring dual cooling fans, multiple height adjustment levels, and a sturdy metal mesh design, it helps maintain laptop temperatures while improving ergonomics during long work or study sessions.",
 

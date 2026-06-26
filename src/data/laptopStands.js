@@ -14,7 +14,7 @@ const laptopStands = [
 
     image: "/images/laptopstands/portronics-my-buddy-k11.jpg",
 
-    affiliateLink: "https://www.amazon.in/dp/B0CWS3V8QN",
+    affiliateLink: "https://amzn.to/4vArdeP",
 
     description: "The Portronics My Buddy K11 is a premium metal laptop stand featuring 360° rotation, adjustable height and viewing angles, and a foldable design. Its carbon steel construction improves airflow, enhances ergonomics, and provides a stable platform for laptops and MacBooks during work, study, or content creation.",
 
@@ -75,7 +75,7 @@ const laptopStands = [
 
     image: "/images/laptopstands/dyazo-n3-adjustable-aluminum-laptop-stand.jpg",
 
-    affiliateLink: "https://www.amazon.in/dp/B08LHTJTBB",
+    affiliateLink: "https://amzn.to/4xhZYaC",
 
     description: "The Dyazo N3 is a lightweight and portable aluminum laptop stand designed to improve ergonomics and airflow. With 6 adjustable viewing angles, a foldable design, and sturdy aluminum construction, it is ideal for students, professionals, and remote workers who need a compact laptop stand for everyday use.",
 
@@ -137,7 +137,7 @@ const laptopStands = [
 
     image: "/images/laptopstands/dyazo-360-rotating-laptop-stand.jpg",
 
-    affiliateLink: "https://www.amazon.in/dp/B0F2KXSZGN",
+    affiliateLink: "https://amzn.to/4aDrcyC",
 
     description: "The Dyazo 360° Rotating Laptop Stand is a premium ergonomic laptop riser designed for professionals, creators, and work-from-home users. It features a fully rotatable base, adjustable height, foldable design, and durable metal construction that improves posture, enhances airflow, and creates a more comfortable workspace.",
 

@@ -13,7 +13,7 @@ const studyTables = [
 
     image: "/images/studytables/tekcool-multi-purpose-laptop-table.jpg",
 
-    affiliateLink: "https://www.amazon.in/dp/B0G66L8ND9",
+    affiliateLink: "https://amzn.to/4erFL9S",
 
     description: "The TEKCOOL Multi-Purpose Laptop Table is a versatile study and work table designed for students, professionals, and remote workers. Featuring adjustable height settings, a portable design with wheels, and a sturdy engineered wood top, it is ideal for studying, working from home, bedside use, and everyday productivity.",
 
@@ -74,7 +74,7 @@ const studyTables = [
 
     image: "/images/studytables/divija-store-study-table-bed-table.jpg",
 
-    affiliateLink: "https://www.amazon.in/dp/B0F1LC668D",
+    affiliateLink: "https://amzn.to/4evbCq1",
 
     description: "The DIVIJA STORE Study Table is a lightweight and portable laptop desk designed for studying, writing, reading, and working from home. It features a spacious tabletop with dedicated slots for a tablet, mobile phone, pens, and a side drawer for storing stationery, making it an excellent all-in-one study companion.",
 
@@ -135,7 +135,7 @@ const studyTables = [
 
     image: "/images/studytables/cubiker-multipurpose-foldable-lapdesk.jpg",
 
-    affiliateLink: "https://www.amazon.in/dp/B0D4YKGXKT",
+    affiliateLink: "https://amzn.to/4eKoKc3",
 
     description: "The Cubiker Multipurpose Foldable Lapdesk is a compact and portable study table designed for working, studying, reading, and writing from the comfort of your bed or sofa. It features a spacious wooden tabletop with a built-in cup holder, tablet slot, pen holder, and foldable legs, making it an excellent choice for students and remote workers.",
 
