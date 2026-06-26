@@ -1,42 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset
-xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-<loc>https://your-domain.com/</loc>
-</url>
+  <url>
+    <loc>https://budget-find-hub.vercel.app/</loc>
+  </url>
 
-<url>
-<loc>https://your-domain.com/cooling-pads</loc>
-</url>
+  <url>
+    <loc>https://budget-find-hub.vercel.app/cooling-pads</loc>
+  </url>
 
-<url>
-<loc>https://your-domain.com/laptop-stands</loc>
-</url>
+  <url>
+    <loc>https://budget-find-hub.vercel.app/laptop-stands</loc>
+  </url>
 
-<url>
-<loc>https://your-domain.com/study-tables</loc>
-</url>
+  <url>
+    <loc>https://budget-find-hub.vercel.app/study-tables</loc>
+  </url>
 
-<url>
-<loc>https://your-domain.com/desk-lamps</loc>
-</url>
+  <url>
+    <loc>https://budget-find-hub.vercel.app/desk-lamps</loc>
+  </url>
 
-<url>
-<loc>https://your-domain.com/office-chairs</loc>
-</url>
+  <url>
+    <loc>https://budget-find-hub.vercel.app/office-chairs</loc>
+  </url>
 
-<url>
-<loc>https://your-domain.com/desk-organizer</loc>
-</url>
+  <url>
+    <loc>https://budget-find-hub.vercel.app/desk-organizer</loc>
+  </url>
 
-<url>
-<loc>https://your-domain.com/about</loc>
-</url>
+  <url>
+    <loc>https://budget-find-hub.vercel.app/about</loc>
+  </url>
 
-<url>
-<loc>https://your-domain.com/contact</loc>
-</url>
+  <url>
+    <loc>https://budget-find-hub.vercel.app/contact</loc>
+  </url>
 
 </urlset>
